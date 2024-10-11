@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(15deg, rgb(245, 229, 229), rgb(193, 193, 234));
+    
+    
+
+}
+/* main{
+    background-color: aqua;
+} */
+
+.nav-fixed{
+    background-image: url("images/Bakery.jpg");
+    width:100%;
+    margin:auto;
+    position:sticky;
+    top:0;
+   
+    z-index:999;
+    
+   
+}
+li:hover i {
+ zoom:1.2;
+}
+header{
+    margin-top:10px;
+}
+footer li:nth-child(n){
+    background-color: rgb(14, 20, 36);
+}
+
+/* #contact{
+    background-color: rgb(84, 75, 217);
+    width:100%;
+}  */
